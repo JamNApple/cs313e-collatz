@@ -61,6 +61,26 @@ class TestCollatz (TestCase) :
     def corner_test (self) :
         v = collatz_eval(999999,1000000)
         self.assertEqual(v,259)
+
+    def misc_test (self) :
+        v = collatz_eval(40, 1000)
+        self.assertEqual(v, 112)
+
+    def misc_test_2 (self) :
+        v = collatz_eval(1,50)
+        self.assertEqual(v, 112)
+
+    def misc_test_3 (self) :
+        v = collatz_eval(60,55)
+        self.assertEqual(v, 113)
+
+    def misc_test_4 (self) :
+        v = collatz_eval(39,28)
+        self.assertEqual(v, 107)
+
+    def misc_test_5 (self) :
+        v = collatz_eval(100,95)
+        self.assertEqual(v, 119)
             
 
 
