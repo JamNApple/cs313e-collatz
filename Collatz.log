@@ -1,0 +1,53 @@
+﻿commit 41b6986bd5a1312d3b26ee7bb37532d06cd62b19
+Author: JamNApple <bliu09@yahoo.com>
+Date:   Thu Sep 11 17:23:34 2014 -0500
+
+    changed the output file
+
+commit 0f54faa9658020d9a48eefd55b52eae59ebcac50
+Author: JamNApple <bliu09@yahoo.com>
+Date:   Thu Sep 11 15:40:24 2014 -0500
+
+    Collatz.py updated successfully
+
+commit 5c2c11188eb04a7b7b70b27d97b7d140d6951bc7
+Author: JamNApple <bliu09@yahoo.com>
+Date:   Thu Sep 11 15:26:09 2014 -0500
+
+    1000 lines of tests would you like fries with that?
+
+commit 2a9b45b187ca4dd08cb975c42984fa45b727bf13
+Author: JamNApple <bliu09@yahoo.com>
+Date:   Thu Sep 11 15:13:47 2014 -0500
+
+    Fixed syntax and added test cases for corner/failure cases
+
+commit 9e49f981e256396d8fffb10d0f848f8a981bd031
+Author: JamNApple <bliu09@yahoo.com>
+Date:   Thu Sep 11 14:57:57 2014 -0500
+
+    Better cache
+
+commit c0a96325eb96bf8f67c326c1df2ff1590251a06b
+Author: JamNApple <bliu09@yahoo.com>
+Date:   Thu Sep 11 14:56:10 2014 -0500
+
+    cache added
+
+commit 5af44a9075a02e6dcc5fe5d1b30a1ce5cc060086
+Author: JamNApple <bliu09@yahoo.com>
+Date:   Thu Sep 11 14:53:10 2014 -0500
+
+    Runs in sphere
+
+commit 6d26a8a0bc1820309306fc6256273ddfb55dd96b
+Author: JamNApple <bliu09@yahoo.com>
+Date:   Mon Sep 8 16:07:11 2014 -0500
+
+    Commitment is still hard
+
+commit fdb7bcc9a648e79c0f189f4b324012e14cf63f55
+Author: JamNApple <bliu09@yahoo.com>
+Date:   Sat Sep 6 12:17:32 2014 -0500
+
+    Commitment is hard
